@@ -1,0 +1,2 @@
+# OpenShop
+Shopping Comparison Harness
